@@ -1,0 +1,4 @@
+Sur le site web, plusieurs pages sont disponibles depuis la page d'accueil, Tout d'abord sur le head vous avez les différents éléments attendus, de plus, vosu avez à droite la photo de profil de l'utilisateur.
+Vous pouvez cliquez sur la photo de profil ce qui vous enverra directement vers la page de login.
+Une fois dans cette page de login vous pouvez mettre un nom d'utilisateur et un mot de passe, une fois fait, vous cliquez sur le bouton login, cela vous renverra sur la page d'accueil.
+
